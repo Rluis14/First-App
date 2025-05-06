@@ -3,6 +3,8 @@ import { HelloWave } from '@/components/HelloWave';
 import ParallaxScrollView from '@/components/ParallaxScrollView';
 import { ThemedText } from '@/components/ThemedText';
 import { ThemedView } from '@/components/ThemedView';
+import LandingPage from './LandingPage';
+
 
 export default function HomeScreen() {
   return (
